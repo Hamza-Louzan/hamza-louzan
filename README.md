@@ -16,7 +16,7 @@
 | **Analytics**       | Pandas, NumPy, Spark, Statsmodels                                                |
 | **Visualization**   | Tableau, Power BI, Matplotlib, Seaborn, Plotly                                   |
 | **Databases**       | PostgreSQL, MongoDB, Snowflake, BigQuery                                         |
-| **Cloud & Tools**   | AWS (S3, EC2), Docker, Git, MLflow, Airflow                                      |
+| **Cloud & Tools**   | AWS (S3, EC2), Docker, Git, Airflow                                      |
 
 ---
 
