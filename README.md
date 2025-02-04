@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-louzan)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat-square&logo=github)](https://github.com/hamza-louzan)
 
-** Turning raw data into actionable insights.**  I specialize in building **predictive models**, designing **data pipelines**, and translating complex analyses into business value. Currently advancing NLP for low-resource languages 🌍 at the **Gates Foundation** (part-time).
+** Turning raw data into actionable insights.**  I specialize in building **predictive models**, designing **data pipelines**, and translating complex analyses into business value. Currently advancing NLP for low-resource languages 🌍 at the **Gates Foundation**.
 
 ---
 
@@ -12,7 +12,7 @@
 | **Category**       | **Technologies**                                                                 |
 |---------------------|----------------------------------------------------------------------------------|
 | **Languages**       | Python 🐍, SQL, R, Bash                                                          |
-| **ML/DL**           | TensorFlow, PyTorch, Scikit-learn, HuggingFace 🤗, XGBoost, LangChain             |
+| **ML/DL**           | TensorFlow, PyTorch, Scikit-learn, HuggingFace 🤗, LangChain             |
 | **Analytics**       | Pandas, NumPy, Spark, Statsmodels                                                |
 | **Visualization**   | Tableau, Power BI, Matplotlib, Seaborn, Plotly                                   |
 | **Databases**       | PostgreSQL, MongoDB, Snowflake, BigQuery                                         |
