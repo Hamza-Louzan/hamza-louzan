@@ -21,39 +21,15 @@
 ---
 
 ## 🚀 **Recent Work**
-### **Gates Foundation Contribution** (Part-Time)
+### **Gates Foundation Contribution**
 - **Multilingual LLM Evaluation**: Developed performance metrics for low-resource language models in Africa (Swahili, Hausa, Yoruba).
 - **Translation Quality Analysis**: Built pipelines to assess AI translation accuracy for underrepresented dialects.
 - **Prompt Engineering**: Optimized zero-shot/few-shot prompts for LLMs in educational and healthcare contexts.
 
----
-
-## 💡 **Featured Projects**
-
-### [LLM Benchmarking Framework](https://github.com/yourusername/llm-benchmarks)
-_Award-winning toolkit for evaluating multilingual model performance_  
-🔨 **Tech**: Python, HuggingFace, PyTorch, Statistical Hypothesis Testing  
-📊 **Impact**: 30% faster evaluation cycles for 10+ research teams.
-
-### [Sales Forecasting Engine](https://github.com/yourusername/sales-forecasting)
-_End-to-end ML pipeline predicting retail demand across 50+ regions_  
-🔨 **Tech**: XGBoost, Prophet, Airflow, Snowflake  
-📈 **Result**: 18% reduction in inventory costs for enterprise clients.
-
----
-
-## 📈 **GitHub Activity**
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 📫 **Let’s Collaborate!**
-- **Open to**: ML engineering roles, NLP research, and data strategy consulting
+- **Open to**:Data Science & ML engineering roles, NLP research, and data strategy consulting
 - **Currently Exploring**: Low-resource language models, LLM quantization, causal inference
 - **Reach Out**: 
-  - 📧 [your.email@domain.com](mailto:your.email@domain.com)  
-  - 🐦 [Twitter](https://twitter.com/yourhandle)  
-  - 🌐 [Portfolio](https://yourportfolio.com)
+  - 📧 [your.email@domain.com](mailto:hamzalouzan5@gmail.com)  
 
