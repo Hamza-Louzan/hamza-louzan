@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-louzan)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat-square&logo=github)](https://github.com/hamza-louzan)
 
-** Turning raw data into actionable insights. **  I specialize in building **predictive models**, designing **data pipelines**, and translating complex analyses into business value. Currently advancing NLP for low-resource languages 🌍 at the **Gates Foundation**.
+Turning raw data into actionable insights.  I specialize in building **predictive models**, designing **data pipelines**, and translating complex analyses into business value. Currently advancing NLP for low-resource languages 🌍 at the **Gates Foundation**.
 
 ---
 
