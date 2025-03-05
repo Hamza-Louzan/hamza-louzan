@@ -30,6 +30,4 @@
 ## 📫 **Let’s Collaborate!**
 - **Open to**:Data Science & ML engineering roles, NLP research, and data strategy consulting
 - **Currently Exploring**: Low-resource language models, LLM quantization, causal inference
-- **Reach Out**: 
-  - 📧 [your.email@domain.com](mailto:hamzalouzan5@gmail.com)  
 
